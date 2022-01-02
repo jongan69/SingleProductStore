@@ -1,0 +1,24 @@
+{
+  "name": "singleproductstore",
+  "version": "1.0.0",
+  "description": "A react app designed to sell a single product online with stripe",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Eshop",
+    "React",
+    "Stripe",
+    "Store"
+  ],
+  "author": "Jonathan Gan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "nodemon": "^2.0.15",
+    "stripe": "^8.195.0"
+  }
+}
