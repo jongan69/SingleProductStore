@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.1",
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "express-handlebars": "^6.0.2",
     "nodemon": "^2.0.15",
     "stripe": "^8.195.0"
